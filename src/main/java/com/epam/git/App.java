@@ -10,5 +10,7 @@ public class App
     {
         Greetings greetings = new Greetings();
         greetings.greet();
+        
+        greetings.greet("Sushant");
     }
 }
